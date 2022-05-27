@@ -12,7 +12,7 @@ import com.demo.entity.country;
 import com.demo.entity.usa;
 import com.demo.entity.world;
 
-public class DemoRepository {
+public class DemoRepository    {
 	
 	JdbcTemplate template;    
     
